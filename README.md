@@ -12,5 +12,5 @@ O arquivo está disponível no repositório: [Link GitHub](https://github.com/Vi
 
 ## Versionamento Sêmantico 
 
-- **`1.0.0`**: Versão Inicial dos Requisitos.
+- **`1.0.0`**: Versão Inicial.
 - **`1.1.0`**: Versão Final com README.
